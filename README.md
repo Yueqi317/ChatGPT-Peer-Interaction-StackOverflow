@@ -4,7 +4,7 @@
 
 ## Research Question
 
-Does the release of ChatGPT reduce observable peer interaction (commenting activity) on Stack Overflow, and is this reduction stronger for questions that are highly substitutable by AI?
+Does the release of ChatGPT (November 30, 2022) reduce peer interaction (commenting activity) on Stack Overflow question threads, and is this reduction stronger for questions that are highly substitutable by AI? 
 
 ## Data Description
 
